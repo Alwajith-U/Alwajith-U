@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AlwajithU">
+<a href="https://github.com/Alwajith-U">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -237,23 +237,6 @@ An e-commerce project focused on product browsing and shopping experience.
 
 ---
 
-### 📰 Project 06 — Digital Magazine Selling Website
-
-A digital-product storefront focused on presenting and selling digital magazines.
-
-**Tech Stack:**
-
-`React.js` `TypeScript` `Tailwind CSS`
-
-**Features:**
-
-- Digital product presentation
-- Responsive storefront
-- Product browsing
-- Digital-product workflow
-- Modern frontend architecture
-
----
 
 ## 🧠 Development Journey
 
@@ -365,17 +348,17 @@ Build reliable, scalable and useful web applications while continuously improvin
 
 <div align="center">
 
-<a href="https://github.com/AlwajithU">
+<a href="https://github.com/Alwajith-U">
 <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlwajithU&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alwajith-U&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwajithU&hide_border=true&theme=transparent" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwajith-U&hide_border=true&theme=transparent" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -399,7 +382,7 @@ Build reliable, scalable and useful web applications while continuously improvin
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AlwajithU">
+<a href="https://github.com/Alwajith-U">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
